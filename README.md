@@ -6,7 +6,7 @@ Here’s the **modified README** content with all references to **Lovable** remo
 
 ## Project Info
 
-**URL**: *\[Add your live URL or deployment link here]*
+**URL**: https://movie-stack-gilt.vercel.app/
 
 ## How Can I Edit This Code?
 
